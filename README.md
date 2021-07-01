@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/oda4jxqk1emwahty/branch/main?svg=true)](https://ci.appveyor.com/project/Nataliya2020/homework-ajs-16-object-reflection-proxy-enumeratio/branch/main)
